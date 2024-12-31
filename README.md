@@ -7,5 +7,6 @@ Here are some ideas to get you started:
 
 -->
 
+[![Erwin Douna's GitHub stats](https://github-readme-stats.vercel.app/api?username=erwindouna)](https://github.com/erwindouna/github-readme-stats)
 ![](https://raw.githubusercontent.com/erwindouna/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/erwindouna/github-stats/master/generated/overview.svg#gh-light-mode-only)
