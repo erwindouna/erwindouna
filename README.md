@@ -8,9 +8,9 @@
 
 ---
 
-## 👋 What I'm about
+## 👋 About me
 
-I design enterprise-grade integrations for a living and spend the rest of my time bringing that same rigor to my homelab. Most of my open source work orbits **[Home Assistant](https://github.com/home-assistant)**, where I'm part of the maintainer group (Core member) and a code owner on a handful of integrations.
+I design enterprise-grade integrations for a living and spend the rest of my time bringing that same rigor to my homelab. Most of my open source work orbits [Home Assistant](https://github.com/home-assistant), where I'm part of the maintainer group (Core member) and a code owner on a handful of integrations.
 
 My pattern is simple: find a device or service I actually use, write a proper async Python client for it, wrap it in a well-behaved Home Assistant integration, and keep both in good shape as they grow up.
 
