@@ -27,7 +27,3 @@ My pattern is simple: find a device or service I actually use, write a proper as
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erwindouna&show=reviews,prs_merged,contribs_private&hide_border=true&include_all_commits=true" alt="GitHub stats">
 </p>
-
-<p align="center">
-  <sub>Open an issue, send a PR, or just say hi — always happy to talk integrations.</sub>
-</p>
