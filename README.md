@@ -23,7 +23,3 @@ My pattern is simple: find a device or service I actually use, write a proper as
 | [`pyfirefly`](https://github.com/erwindouna/pyfirefly) | Firefly III personal finance API |
 | [`python-melcloud`](https://github.com/erwindouna/python-melcloud) | Mitsubishi MELCloud heat pumps |
 | [`truelayer2firefly`](https://github.com/erwindouna/truelayer2firefly) | TrueLayer -> Firefly III transaction sync |
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erwindouna&show=reviews,prs_merged,contribs_private&hide_border=true&include_all_commits=true" alt="GitHub stats">
-</p>
