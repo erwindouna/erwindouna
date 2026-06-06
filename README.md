@@ -19,6 +19,7 @@ My pattern is simple: find a device or service I actually use, write a proper as
 | Library | What it wraps
 |---|---|
 | [`pyportainer`](https://github.com/erwindouna/pyportainer) | Portainer API; containers, stacks, events, backups |
+| [`aiomelcloudhome`](https://github.com/erwindouna/python-aiomelcloudhome) | Mitsubishi MELCloud Home AC's and heat pumps |
 | [`python-tado`](https://github.com/erwindouna/python-tado) | Tado climate devices |
 | [`pyfirefly`](https://github.com/erwindouna/pyfirefly) | Firefly III personal finance API |
 | [`python-melcloud`](https://github.com/erwindouna/python-melcloud) | Mitsubishi MELCloud heat pumps |
