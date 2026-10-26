@@ -21,6 +21,7 @@ My pattern is simple: find a device or service I actually use, write a proper as
 | [`pyportainer`](https://github.com/erwindouna/pyportainer) | Portainer API; containers, stacks, events, backups |
 | [`pyzonneplan`](https://github.com/erwindouna/pyzonneplan) | Zonneplan API, consumer prices, energy delivery, batteries and EV charge points |
 | [`aiomelcloudhome`](https://github.com/erwindouna/aiomelcloudhome) | Mitsubishi MELCloud Home AC's and heat pumps |
+| [`aioseafile`](https://github.com/erwindouna/aioseafile) | Seafile locally hosted file sync and file sharing |
 | [`python-tado`](https://github.com/erwindouna/python-tado) | Tado climate devices |
 | [`pyfirefly`](https://github.com/erwindouna/pyfirefly) | Firefly III personal finance API |
 | [`python-melcloud`](https://github.com/erwindouna/python-melcloud) | Mitsubishi MELCloud heat pumps |
